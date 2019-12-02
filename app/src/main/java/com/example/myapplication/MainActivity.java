@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
     public void sampleChange() {
         System.out.println("its working");
     }
+    public void anotherSampleChange() {
+        System.out.println("hope this works!");
+    }
 }
